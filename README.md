@@ -4,7 +4,7 @@ Esta é uma aplicação de um buscador de repositórios simples desenvolvida em 
 
 ## Pré-visualização
 
-![Github Wiki Screenshot](/wiki-github-react-dio/public/Gitihub_Wiki.png)
+![Github Wiki Screenshot](public/Gitihub_Wiki.png)
 
 - 1 - Insira o caminho
 - 2 - Clique em buscar
